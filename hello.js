@@ -4,7 +4,8 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello, Desert!")
+console.log("today was a good day"); console.log("\"how was your day goin?\"")
 
 /*  
 Next, PLAY! 
