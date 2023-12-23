@@ -6,6 +6,11 @@ to the console (the panel on the right)
 
 console.log("Hello, Desert!")
 console.log("today was a good day"); console.log("\"how was your day goin?\"")
+console.log("christmas will be here soon");
+console.log("I hope everyone will pass this course");
+console.log("Ramen is then best food ever");
+console.log(25);
+console.log(25+67)
 
 /*  
 Next, PLAY! 
